@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6c356e8-ad4e-466e-b2ab-b9e5a7d60727" name="Changes" comment="appfacturas">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/ejmFacturas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/Factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/ItemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/ItemFactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lsmalte/appFacturas/modelo/Producto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2U44FEKkd1X0NNIRmInluJiURLo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/malte/Descargas/JAVA UDEMY",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/luisc/OneDrive/Escritorio/appFacturas/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c356e8-ad4e-466e-b2ab-b9e5a7d60727" name="Changes" comment="" />
+      <created>1692185413750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692185413750</updated>
+      <workItem from="1692185415369" duration="5000" />
+      <workItem from="1692185498788" duration="5587000" />
+      <workItem from="1692654005946" duration="1345000" />
+      <workItem from="1692970107698" duration="1209000" />
+      <workItem from="1701791484442" duration="1348000" />
+      <workItem from="1701792850810" duration="1383000" />
+      <workItem from="1701797115822" duration="1247000" />
+      <workItem from="1701879244881" duration="4747000" />
+      <workItem from="1701963114974" duration="1189000" />
+    </task>
+    <task id="LOCAL-00001" summary="appfacturas">
+      <option name="closed" value="true" />
+      <created>1701791821661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701791821661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="appfacturas" />
+    <option name="LAST_COMMIT_MESSAGE" value="appfacturas" />
+  </component>
+</project>
